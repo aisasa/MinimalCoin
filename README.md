@@ -1,5 +1,5 @@
 # MinimalCoin
-An educational software to quickly set up a minimal cryptocurrency infrastructure. 
+An educational software to quickly set up a minimal cryptocurrency and blockchain infrastructure. 
 
 Basic functionalities seem to work, but very inmature code. See structure diagram in enclosed pdf. Still no serious comments. Network sets up only in localhost. Lacks of script functionality. Final revisions and docs are only in mind...
 
